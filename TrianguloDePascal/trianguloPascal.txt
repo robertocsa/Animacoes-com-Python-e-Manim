@@ -1,1 +1,1 @@
-
+Animação em Python com uso da biblioteca Manim
